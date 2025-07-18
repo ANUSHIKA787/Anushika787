@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Anushika Srivastava  
+🎓 Computer Science Graduate | 🌐 Web Developer | 💡 Tech Enthusiast  
 
-<!--
-**ANUSHIKA787/Anushika787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech Stack  
+- **Front-End:** HTML, CSS, JavaScript, React.js  
+- **Back-End:** Node.js, Express.js, MongoDB, MySQL  
+- **Other Tools:** Git, VS Code, Firebase (basic), Python  
 
-Here are some ideas to get you started:
+## 🛠️ Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Note Sharing Website  
+A web app for students to upload and access academic notes by subject/topic.  
+**Stack:** React, Node.js, MongoDB  
+🚀 *Coming soon on GitHub*
+
+### 🤖 Jarvis – Python Voice Assistant  
+A desktop assistant that opens apps, searches online, and responds with voice.  
+**Stack:** Python, pyttsx3, speech_recognition  
+🚀 *Coming soon on GitHub*
+
+## 🎯 Career Goal  
+To become a skilled full-stack developer and build meaningful tech solutions in healthcare, education, and social good.
+
+## 📬 Let's Connect  
+[LinkedIn](https://www.linkedin.com/in/annusrivastava)
